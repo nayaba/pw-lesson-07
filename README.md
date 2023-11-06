@@ -119,3 +119,5 @@ Go ahead, type it out, and watch the magic happen in your console!
 ### Recap and What's Next
 
 You've just had a whirlwind tour of control structures in JavaScript! Like any good tour, there's always more to see and do. But for now, soak up the sights and sounds of `if` statements, `switch` cases, and loops. Play around with them, mix them up, and see what happens. And remember, in coding, the best way to learn is by doing. So, go out there and write some awesome code! 🚀
+
+[Back to the Wiki](https://github.com/nayaba/pw-wiki)
