@@ -1,5 +1,7 @@
 ![that-way](https://github.com/nayaba/pw-lesson-07/assets/9198401/129a157e-e08d-4a05-a645-af1c2b7894ad)
 
+# Introduction to Control Structures
+
 Alright, ready to take control of your code? Let's chat about control structures in JavaScript. These are like the GPS of your code—they help you decide which way to go, depending on the conditions at hand.
 
 ### 1. If, Else-If, Else: Choosing Your Adventure
