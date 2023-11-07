@@ -22,6 +22,9 @@ if (road === 'left') {
 } else {
   console.log("You're still at the crossroads, undecided.");
 }
+
+// If you run this code snippet you should see the below output in your console:
+// "You've arrived at a mysterious cave."
 ```
 
 ### 2. Switch: The Control Tower
@@ -44,6 +47,9 @@ switch (weather) {
   default:
     console.log("Hmm, let's just stay inside.");
 }
+
+// If you run this code snippet you should see the below output in your console:
+// "Grab your sunglasses!"
 ```
 
 `break;` is like telling the plane, "Okay, you've landed, you can stop now." The `default` case is like saying, "If the weather is something weird, just default to staying indoors."
@@ -56,6 +62,13 @@ A `for` loop is like a conveyor belt that repeats a process a set number of time
 for (let i = 0; i < 5; i++) {
   console.log("Package number " + i + " is on the belt.");
 }
+
+// If you run this code snippet you should see the below output in your console:
+// Package number 0 is on the belt.
+// Package number 1 is on the belt.
+// Package number 2 is on the belt.
+// Package number 3 is on the belt.
+// Package number 4 is on the belt.
 ```
 
 ### 4. While Loop: Circling the Block
@@ -69,6 +82,13 @@ while (fuel > 0) {
   console.log("The car is still running. Fuel level: " + fuel);
   fuel--;
 }
+
+// If you run this code snippet you should see the below output in your console:
+// The car is still running. Fuel level: 5
+// The car is still running. Fuel level: 4
+// The car is still running. Fuel level: 3
+// The car is still running. Fuel level: 2
+// The car is still running. Fuel level: 1
 ```
 
 ### 5. Do-While Loop: At Least Once
@@ -81,6 +101,9 @@ let doIWantIceCream = false;
 do {
   console.log("I'm getting ice cream regardless!");
 } while (doIWantIceCream);
+
+// If you run this code snippet you should see the below output in your console:
+// "I'm getting ice cream regardless!"
 ```
 
 The code block will run once before the condition is checked.
@@ -100,6 +123,14 @@ for (let i = 0; i < 10; i++) {
   }
   console.log(i);
 }
+
+// If you run this code snippet you should see the below output in your console:
+// 0
+// 1
+// 2
+// 4
+// 5
+// 6
 ```
 
 ### Practice Time!
